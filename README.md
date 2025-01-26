@@ -7,4 +7,4 @@ This is a quick POC for CRUD API with spring webflux
 * Spring Boot 3+
 
 # Swagger
-* (http://localhost:8080/swagger-ui/webjars/swagger-ui/index.html)
+* (http://localhost:8080/swagger-ui/index.html)
